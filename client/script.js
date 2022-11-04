@@ -209,6 +209,3 @@ const createFood = () => {
 }
 document.querySelector('#add-food-button').addEventListener('click',createFood)
 
-const clearFood = () => {
-    
-}
